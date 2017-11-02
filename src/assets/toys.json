@@ -1,0 +1,36 @@
+[
+  { "name": "Car",
+    "price": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRooSqHiaFkE_Ts4D-bj6QGfYQAcByHBvULcVzASeiJvUSWSnuZ",
+    "description": "Buckle up, because the Green Toys Race Car is ready to roll. \nThis sleek racer is made from 100% recycled plastic, \nand will tear up the track without harming the planet."},
+
+  { "name": "Doll", 
+    "price": 25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteRJ81MP6DeAf83sjsp94TpHpGXcsYO1b64UAo-rLYwcyNb_aUQ",
+    "description": " Realistically Looking Soft Baby Doll with Amazingly Detailed Vinyl Head, Arms, and Legs Dressed in a Cute Pink Outfit and Matching Hat." },
+
+  { "name": "Blaster",
+    "price": 15, 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyzAGKEUWFueEZ-yscT7-ntkt1F_PMqa7MaTUe2EiicQ8DjZI",
+    "description": "Soldier, grab your foam dart blaster gun and join the fight! Conquer the battlefield with soft dart bullets" },
+
+  { "name": "Lego",
+    "price": 30, 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT228bBlyEqJUIDTXDj-AtxsLNHUFhUJEb60Fcarm7aJQ9OSiLuQg",
+    "description": "esigned with builders of all ages in mind, this classic toy with its collection of LEGO bricks in 35 different colors will encourage open-ended building play" },
+
+  { "name": "Ball",
+    "price": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0r5lxUHM7Rzw1Avo5358rq4tFwKVutehD1Mkgq4ukPQKJ_lvB",
+    "description": "Small, pink, high bounce ball, for stickball & stoop ball, hit the penny & many more games. Spalding 51-153 small pink spaldeen high bounce ball." },
+
+  { "name": "Game",
+    "price": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38TKhvSENzdVlVraLyZDug1dGBPf9Sc9oOLPL69BNiqUm54d7",
+    "description": "Slide, collide and score to win the game of Sorry! Draw cards to see how far you get to move one of your pawns on the board." },
+
+  { "name": "Playdoh",
+    "price": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1H9LNHlXoX8aapwopgrEOf3trBi0aktgwrKYzZhztI8_hZXsb",
+    "description": "Whether it's your first Play-Doh experience or your millionth, sometimes a basic set of tools is all you need to jump-start your imagination." }
+]
